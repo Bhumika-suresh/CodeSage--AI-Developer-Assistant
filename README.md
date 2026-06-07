@@ -41,7 +41,7 @@ Installation
 ```
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/codesage.git
+git clone https://github.com/Bhumika-suresh/CodeSage--AI-Developer-Assistant.git
 cd codesage
 ```
 Install dependencies:
@@ -88,10 +88,15 @@ Telegram mode lets you interact with CodeSage from a Telegram bot.
 Available commands:
 
 /start
+
 /ask <your question>
+
 /agent <task description>
+
 /plan <your goal>
+
 /help
+
 Only the configured TELEGRAM_OWNER_ID can use the bot.
 
 ## Project Structure
